@@ -1,5 +1,5 @@
 # kaggle-projects
-a repo with all my kaggle projectshttps://www.kaggle.com/mchab18
+a repo with all my kaggle projects https://www.kaggle.com/mchab18
 
 ## Paper Classifier
 **Summary:** determine what category a paper on arXiv belongs to based on its abstract 
