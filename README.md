@@ -10,3 +10,8 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 **Summary:** visualize intresting things from space mission data since 1950
 
 **Link to kaggle dataset:** https://www.kaggle.com/agirlcoding/all-space-missions-from-1957
+
+## Revenue prediction Summer Sale
+**Summary:** Try and predict the revenue generated from a new product based on multiple peramiters (units_sold, rating, retail_price,...)
+
+**Link to kaggle dataset:** https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish
