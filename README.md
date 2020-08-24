@@ -18,4 +18,5 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 
 ## Preprocess Handwriting Image Data
 **Summary:** Load and preprocess the Handwriting data so it will be easier to build models for the harder task of recognizing what the word is
+
 **Link to kaggle dataset:**  https://www.kaggle.com/landlord/handwriting-recognition
