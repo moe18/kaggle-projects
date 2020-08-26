@@ -20,3 +20,9 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 **Summary:** Load and preprocess the Handwriting data so it will be easier to build models for the harder task of recognizing what the word is
 
 **Link to kaggle dataset:**  https://www.kaggle.com/landlord/handwriting-recognition
+
+## DOOM Animal Crossing Simple style transfer
+**Summary:** a program that takes the style from animal crossing and applus it to a doom picture, I will load a pre trained style transfer model from tensorflow hub
+
+**Link to kaggle dataset:** https://www.kaggle.com/andrewmvd/doom-crossing
+
