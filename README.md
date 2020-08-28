@@ -26,3 +26,9 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 
 **Link to kaggle dataset:** https://www.kaggle.com/andrewmvd/doom-crossing
 
+## women football game prediction
+**Summary:** try and predict who will win womend football game based on 'home_team','away_team','tournament','country', and whether or not it was a neutral stadium 
+
+**Link to kaggle dataset:** https://www.kaggle.com/martj42/womens-international-football-results
+
+
