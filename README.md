@@ -31,4 +31,9 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 
 **Link to kaggle dataset:** https://www.kaggle.com/martj42/womens-international-football-results
 
+## photo-to-monte-cycle-gan
+**Summary:** make regular photos look like they were made by monte using cycle gans
+
+**Link to kaggle dataset:** https://www.kaggle.com/c/gan-getting-started/overview
+
 
