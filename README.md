@@ -36,4 +36,9 @@ a repo with all my kaggle projects https://www.kaggle.com/mchab18
 
 **Link to kaggle dataset:** https://www.kaggle.com/c/gan-getting-started/overview
 
+## Custom GRU VS Pre-trained model
+**Summary:** predict how many stars a rating would get based on the review 
+
+**Link to kaggle dataset:** https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
+
 
